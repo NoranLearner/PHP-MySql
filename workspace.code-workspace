@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"CATEID",
+			"Exten",
+			"hashedpassword",
+			"postid",
+			"referrerpolicy",
+			"userid",
+			"zcategoryid",
+			"zdescription",
+			"zemail",
+			"zimage",
+			"zpassword",
+			"zrole",
+			"zstatus",
+			"ztitle",
+			"zuserid",
+			"zusername",
+			"ادكيت",
+			"اسمها",
+			"الصفحه",
+			"اللى",
+			"خليك",
+			"صفحه",
+			"عليها",
+			"ودينى"
+		]
+	}
+}
